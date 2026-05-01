@@ -1,1 +1,2 @@
-tres
+Three
+Visually inspecting the compiled output of resource files. This is useful for validating complex Jinja logic or macro usage
