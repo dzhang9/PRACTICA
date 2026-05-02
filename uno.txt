@@ -4,3 +4,6 @@ ESPERO SEAN UY AMABLES CONMIGO
 
 TENGO 22
 Sí, debes usar el virtual environment siempre, pero lo ideal es configurarlo para que se active automáticamente y no depender de hacerlo manualmente.
+uno 
+dos
+tres
